@@ -265,7 +265,7 @@ Collaborating in Git involves cloning repositories, managing remotes, fetching a
      git checkout <branch_name>
      ```
 
-**9. Pull Request (PR):**
+**9. `Pull Request (PR):`**
 
 - **`Purpose:`** A way to propose changes from one branch to another. It allows for review and discussion before merging.
 - **`Command:`**
